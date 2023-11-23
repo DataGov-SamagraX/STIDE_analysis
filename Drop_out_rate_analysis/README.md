@@ -60,4 +60,6 @@ Only first year row is considered as 'eligible'. 'Last attended year' 2022 is mo
 2.  Student has taken a 3 year course (2020-2023). he is there for first 2 years and not there for last year.
 He is eligible for first 2 years and 2nd year is considered as 'last eligible year'. 'Last attended year' is the same as he is considered **dropped out**
 
-3. Student has taken a 5 year course (2019-2024) : He is there for all 3 years.  Last eligible year :  2022, Last attended year :  2023. He is **non drop out** 
+3. Student has taken a 5 year course (2019-2024) : He is there for all 3 years.  Last eligible year :  2022, Last attended year :  2023. He is **non drop out**
+
+4. Student attended 1st year and 3rd year for a 3 year course. Last eligible year :  2021, Last attended year :  2023. He is **non drop out**
