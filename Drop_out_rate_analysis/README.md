@@ -12,7 +12,7 @@ Analysis required to calculate the drop out rates for students from college
 This document explains the logic used to calculate dropout rates for students across various courses. Data is available for 3  academic years. 
 ### Defintion:  
 
-A student in the data who attended a non-final year in 2021 or 2022 and didnt attend the years after that. 
+A student in the data who attended a non-final year of college in 2021 or 2022 and didnt attend in the years after that. 
 
 #### Maximum Course Year Calculation for each course : 
 For each course, the maximum year (course length of a course) a student can be in is determined.
