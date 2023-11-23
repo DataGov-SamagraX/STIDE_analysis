@@ -14,6 +14,8 @@ This document explains the logic used to calculate dropout rates for students ac
 
 A student in the data who attended a non-final year of college in 2021 or 2022 and didnt attend in the years after that. 
 
+
+### Calculation: 
 #### Maximum Course Year Calculation for each course : 
 For each course, the maximum year (course length of a course) a student can be in is determined.
 
