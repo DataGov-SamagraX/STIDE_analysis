@@ -21,8 +21,7 @@ For each course, the maximum year (course length of a course) a student can be i
  - Eligible students - Filtering by Academic Year :
 Students in the last academic year (2022-23) are excluded, as their dropout status cannot be determined with the available data.
 
-- Eligible students - Excluding Final Year Students :
-Further filtering excludes students who are in their final course year. They cannot be considered for dropout analysis as they have reached or are about to complete their courses.
+- Eligible students - Excluding Final Year Students : They cannot be considered for dropout analysis as they have reached last year and there is no next year to drop out.
 
 -  Considering 'last eligible year' for student :  For the eligible students, the last academic year (amongs eligible years) is considered so that only record per student is present.  If they have both 1st and 2nd year, then only 2nd year's record is considered as only this is required for dropout. If 2nd and 3rd year is present, then only 3rd year is considered etc.  
 
