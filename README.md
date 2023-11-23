@@ -1,2 +1,2 @@
-# STIDE_analysis
+# STRIDE_analysis
 Data analysis of drop out rates for STRIDE
