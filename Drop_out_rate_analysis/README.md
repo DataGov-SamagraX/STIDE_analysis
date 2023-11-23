@@ -46,9 +46,18 @@ Further filtering excludes students who are in their final course year. They can
 - If 'last attended year' is higher than 'last eligible' year for a student, that means they continued without dropping out. If it is the same, it means they dropped out.
 
 
-
 ### Grouping :  
 The total number of students and the number of students who have not dropped out are calculated for each gender group.
 The number of students who dropped out is derived by subtracting the number of students who have not dropped out from the total number of students.
 Dropout rates are calculated as a percentage of the total number of students.
-Conclusion
+
+
+### Test cases : 
+
+1. Student has taken a 2 year course (2021-2023). He attends both years and data is there for both years.
+Only first year row is considered as 'eligible'. 'Last attended year' 2022 is more than 'last eligible year' 2021. They didnt drop out. He is considered as **non drop out** 
+
+2.  Student has taken a 3 year course (2020-2023). he is there for first 2 years and not there for last year.
+He is eligible for first 2 years and 2nd year is considered as 'last eligible year'. 'Last attended year' is the same as he is considered **dropped out**
+
+3. Student has taken a 5 year course (2019-2024) : He is there for all 3 years.  Last eligible year :  2022, Last attended year :  2023. He is **non drop out** 
