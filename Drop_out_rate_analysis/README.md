@@ -50,20 +50,6 @@ This will be same as above except last year is calculated as student institute l
 - Calculating the 'last attended year' for eligible student :  The last academic year they attended college **for that institute** is calculated (without considering eligible years)
 
 
-### Dropout calculation ( from bachelors to master) :  
-
-Only students from a predefined Bachelor's course list<sup>[1]</sup>  in their last year in either 2021/2022 are considered as eligible students. Only latest Bachelors is considered (in the unlikely event students have attended two final year bachelor programs) 
-
-Its checked if these 'eligible students' have enrolled in any Masters programs (based on a predefined Masters course list <sup>[2]</sup>  )
-
-
-
-### Grouping :  
-The total number of students and the number of students who have not dropped out are calculated for each gender group.
-The number of students who dropped out is derived by subtracting the number of students who have not dropped out from the total number of students.
-Dropout rates are calculated as a percentage of the total number of students.
-
-
 ### Test cases : 
 
 1. Student has taken a 2 year course (2021-2023). He attends both years and data is there for both years.
@@ -78,7 +64,26 @@ He is eligible for first 2 years and 2nd year is considered as 'last eligible ye
 
 
 
-### Appendix 
+
+## Drop outs after from Bachelors to Masters : 
+ 
+
+Only students from a predefined Bachelor's course list<sup>[1]</sup>  in their last year in either 2021/2022 are considered as eligible students. Only latest Bachelors is considered (in the unlikely event students have attended two final year bachelor programs) 
+
+Its checked if these 'eligible students' have enrolled in any Masters programs (based on a predefined Masters course list <sup>[2]</sup>  )
+
+
+
+### Grouping :  
+The total number of students and the number of students who have not dropped out are calculated for each gender group.
+The number of students who dropped out is derived by subtracting the number of students who have not dropped out from the total number of students.
+Dropout rates are calculated as a percentage of the total number of students.
+
+
+
+
+
+## Appendix 
 
 
 [1] Bachelors courses :  
