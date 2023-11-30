@@ -4,6 +4,7 @@ Analysis required to calculate the drop out rates for students from college
 
 ## 10th grade drop outs : 
 
+If students who were in tenth grade in pre matriculation data table and if they are not present in the post matriculation tables for the years '2022-23', '2023-2024'; then they are considered as dropped out.  
 
 
 ## Drop outs after post-matriculation : 
@@ -74,3 +75,74 @@ He is eligible for first 2 years and 2nd year is considered as 'last eligible ye
 3. Student has taken a 5 year course (2019-2024) : He is there for all 3 years.  Last eligible year :  2022, Last attended year :  2023. He is **non drop out**
 
 4. Student attended 1st year and 3rd year for a 3 year course. Last eligible year :  2021, Last attended year :  2023. He is **non drop out**
+
+
+
+### Appendix 
+
+
+[1] Bachelors courses :  
+List of Bachelors courses are : 
+'B. Ed.',
+'B. Sc. Technical/Professional',
+'BVA ( Bachelor in Visual Art )',
+'Bachelor of Business Administration (BBA)',
+'Bachelor of Computer Application (BCA)',
+'Plus 3',
+'Integrated BED',
+'Integrated BED-MED',
+'Integrated Bachler in Science',
+'Integrated M.Sc.',
+'Integrated MBA',
+'Integrated MCA',
+'Integrated Master in Science',
+'Interior Design',
+'Journalism',
+'Law',
+'Management',
+'Agriculture & Allied Sciences',
+'Animal Husbandary',
+'Applied Art & Craft',
+'Architecture',
+'Ayurvedic',
+'Engineering - B.Tech Course',
+'Fashion Design',
+'Fashion Technology',
+'Fishery',
+'Forestry',
+'Homeopathy',
+'Hotel Management',
+'Hotel Management (PG)',
+'Dental',
+'Medical',
+'Multimedia and Animation',
+'Nursing',
+'Occupational Therapy',
+'Para-Medical',
+'Performing Arts',
+'Pharmacy',
+'Physical Education',
+'Physiotherapy',
+'Prosthetics and Orthotics',
+'Public Health',
+'Social Works',
+'Textile Design',
+'Tourism/Travel',
+'Tourism/Travel Management'
+
+
+
+[2] Masters courses  :  
+List of masters courses are : 
+'M. A.',
+'M. Com.',
+'M. Ed.',
+'M. Phill',
+'M. Sc.',
+'M. Sc. Technical/Professional',
+'M. Tech.',
+'Master in Computer Application (MCA)',
+'Master in Finance & Control (MFC)',
+'Master in Social Work ( MSW)/ Master in Social Management',
+'Master in Visual Arts',
+'Master of Business Administration (MBA)'
